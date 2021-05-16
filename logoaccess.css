@@ -1,0 +1,53 @@
+.block{
+        border: 1px;
+        height:500px;
+        width:500px;
+        text-align: center;
+        /* margin-top: 20%; */
+        background-color:#343434;
+        background-size: 80px 80px;
+        margin-left: 310px;
+        margin-top: 100px;
+     }
+
+.h2{
+    color: #fff;
+    font-family: Helvetica;
+    font-weight: Bold;
+    font-size: 3em;
+   }
+
+.h5{
+    color:#fff;
+   }
+
+hr{
+    width: 69%;
+    margin-top:-40px;
+    height: 0px;
+  }
+
+.code{
+       background-color: #d31f43;
+     }
+
+.chevron{
+    color: #d31f43;
+   margin-top: 120px;
+   width:50px;
+       }
+
+h5{
+    height: 50px;
+    letter-spacing: 48px;
+    font-family:  Helvetica;
+    font-size: 25px;
+    font-weight: initial;
+    margin-top:-6px;
+    margin-left: 50px;
+    opacity: initial;
+   }
+
+#block2{
+    padding-top: 150px;
+  }
